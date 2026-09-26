@@ -1,0 +1,59 @@
+[
+    {
+        countriers : ["IN","US"],
+        urls: [
+            {lang: "hindi", urlto_1: "www.abc.in/hindi"},
+            {lang: "english", urlto_1: "www.abc.in/english"},
+            {lang: "punjabi", urlto_1: "www.abc.in/punjabi"},
+            {lang: "punjabi", urlto_1: "www.abc.in/punjabi"},
+            {lang: "kannada", urlto_1: "www.abc.in/kannada"},
+            {lang: "telugu", urlto_1: "www.abc.in/telugu"},
+        ]
+
+    },
+    {
+        country : "USA",
+        urls: [
+            {lang: "french", urlto_1: "www.abc.in/french"},
+            {lang: "english", urlto_1: "www.abc.in/english"},
+            {lang: "dutch", urlto_1: "www.abc.in/dutch"},
+            {lang: "spanish", urlto_1: "www.abc.in/spanish"},
+            {lang: "german", urlto_1: "www.abc.in/german"},
+            {lang: "hindi", urlto_1: "www.abc.in/hindi"},
+        ]
+    },
+    {
+        country : "Australia",
+        urls: [
+            {lang: "french", urlto_1: "www.abc.in/french"},
+            {lang: "english", urlto_1: "www.abc.in/english"},
+            {lang: "dutch", urlto_1: "www.abc.in/dutch"},
+            {lang: "spanish", urlto_1: "www.abc.in/spanish"},
+            {lang: "german", urlto_1: "www.abc.in/german"},
+            {lang: "hindi", urlto_1: "www.abc.in/hindi"},
+        ]
+    },
+    {
+        country : "UK",
+        urls: [
+            {lang: "french", urlto_1: "www.abc.in/french"},
+            {lang: "english", urlto_1: "www.abc.in/english"},
+            {lang: "dutch", urlto_1: "www.abc.in/dutch"},
+            {lang: "spanish", urlto_1: "www.abc.in/spanish"},
+            {lang: "german", urlto_1: "www.abc.in/german"},
+            {lang: "hindi", urlto_1: "www.abc.in/hindi"},
+        ]
+    },
+    {
+        country : "Japan",
+        urls: [
+            {lang: "french", urlto_1: "www.abc.in/french"},
+            {lang: "english", urlto_1: "www.abc.in/english"},
+            {lang: "dutch", urlto_1: "www.abc.in/dutch"},
+            {lang: "spanish", urlto_1: "www.abc.in/spanish"},
+            {lang: "german", urlto_1: "www.abc.in/german"},
+            {lang: "hindi", urlto_1: "www.abc.in/hindi"},
+        ]
+    },
+]
+
